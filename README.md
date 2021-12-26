@@ -54,6 +54,8 @@ Aula 53 – Compilar Assets com o Laravel Mix
 Aula 54 – Finalizando a autenticação no Laravel  
 Aula 55 – Middlewares (filtros) no Laravel  
 
+##
+
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
