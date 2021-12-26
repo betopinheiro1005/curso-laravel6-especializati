@@ -1,4 +1,58 @@
+# Curso de Laravel 6
+## especializati (Carlos Ferreira)
 
+### [Vídeos do curso](https://www.youtube.com/watch?v=fCR6ogiPopU&list=PLVSNL1PHDWvQBtcH_4VR82Dg-aFiVOZBY)
+
+### Lista de aulas  
+
+Aula 06 – Instalando o laravel  
+Aula 08 – Versionando Laravel com GIT e Armazenar no GitHub  
+Aula 09 – Introdução a Rotas no Laravel 6x  
+Aula 10 – Rotas any e match no Laravel  
+Aula 11 – Rotas com parâmetros no Laravel  
+Aula 12 – Rotas no Laravel com redirect e view  
+Aula 13 – Rotas nomeadas no Laravel  
+Aula 14 – Grupo de rotas no Laravel  
+Aula 15 – Comandos do Artisan para rotas no Laravel  
+Aula 16 – Introdução aos controllers no Laravel 6.x  
+Aula 17 – Controllers com Parâmetros de Rotas no Laravel 6.x  
+Aula 18 – Controllers de CRUD no Laravel 6.x  
+Aula 20 – Injeção de dependências no Laravel 6.x  
+Aula 21 – Middlewares em Controllers no Laravel 6x  
+Aula 22 – Introdução a Views no Laravel 6x  
+Aula 23 – Impressões no Blade Laravel {{ vs {!!  
+Aula 24 – Templates Blade Laravel  
+Aula 25 – Estruturas de controle Blade Laravel  
+Aula 26 – Estruturas de repetição Blade Laravel  
+Aula 27 – Includes, components e slots no Blade Laravel  
+Aula 28 – Stacks Blade Laravel  
+Aula 29 – Formulários no Laravel (csrf)  
+Aula 30 – Formulários com Métodos de Envio no Laravel (verbo http)  
+Aula 31 – Outros recursos de Laravel  
+Aula 32 – Pegar dados do formulário com o Laravel  
+Aula 33 – Upload de Arquivos no Laravel, com Request  
+Aula 34 – Upload de Arquivos Públicos no Laravel  
+Aula 35 – Validações no Laravel 6  
+Aula 36 – Validações no Laravel 6 com Form Request  
+Aula 37 – Conectar o Laravel 6.x ao Banco de Dados  
+Aula 38 – Migrations no Laravel 6.x  
+Aula 39 – Seeders no Laravel 6.x  
+Aula 40 – Factory no Laravel 6.x  
+Aula 41 – Introdução ao Eloquent ORM do Laravel  
+Aula 42 – Criando Factory de Produtos no Laravel 6x  
+Aula 43 – Listar/Paginar Registros no Laravel 6x  
+Aula 44 – Incluindo o Bootstrap no Laravel 6x (via CDN)  
+Aula 45 – Listando Detalhes de um registro especifico no Laravel 6x  
+Aula 46 – Inserindo Novo Registro no Banco de Dados com o Laravel 6  
+Aula 47 – Deletar um registro no Laravel 6  
+Aula 48 – Editar um registro no Laravel 6.x  
+Aula 49 – Validações de Produtos no Laravel 6 com Form Request  
+Aula 50 – Filtrar Registros no Laravel 6x  
+Aula 51 – Upload de Imagem para Produto no Laravel  
+Aula 52 – Autenticação no Laravel (5, 6 e 7)  
+Aula 53 – Compilar Assets com o Laravel Mix  
+Aula 54 – Finalizando a autenticação no Laravel  
+Aula 55 – Middlewares (filtros) no Laravel  
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
