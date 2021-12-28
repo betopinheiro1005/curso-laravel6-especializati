@@ -1,11 +1,19 @@
 # Curso de Laravel 6
 ## especializati (Carlos Ferreira)
 
-### [Vídeos do curso](https://www.youtube.com/watch?v=fCR6ogiPopU&list=PLVSNL1PHDWvQBtcH_4VR82Dg-aFiVOZBY)
+### Instalação de dependências
 
-### Lista de aulas  
+```bash
+composer install
+```
 
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=fCR6ogiPopU&list=PLVSNL1PHDWvQBtcH_4VR82Dg-aFiVOZBY)  
+
+Aula 01 - O que é o Laravel  
+Aula 02 - Ferramentas para trabalhar com o Laravel 6  
+Aula 05 - Ambiente de desenvolvimento Laravel com Laragon  
 Aula 06 – Instalando o laravel  
+Aula 07 - Estrutura e organização do Laravel 6  
 Aula 08 – Versionando Laravel com GIT e Armazenar no GitHub  
 Aula 09 – Introdução a Rotas no Laravel 6x  
 Aula 10 – Rotas any e match no Laravel  
@@ -17,6 +25,7 @@ Aula 15 – Comandos do Artisan para rotas no Laravel
 Aula 16 – Introdução aos controllers no Laravel 6.x  
 Aula 17 – Controllers com Parâmetros de Rotas no Laravel 6.x  
 Aula 18 – Controllers de CRUD no Laravel 6.x  
+Aula 19 - Controllers resources no Laravel 6  
 Aula 20 – Injeção de dependências no Laravel 6.x  
 Aula 21 – Middlewares em Controllers no Laravel 6x  
 Aula 22 – Introdução a Views no Laravel 6x  
